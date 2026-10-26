@@ -1,0 +1,6 @@
+ROR (Rotate Right Without Carry)
+Original: 11010101
+Step 1 : 11101010
+Step 2 : 01110101
+Step 3 : 10111010
+Final ROR result: 10111010
