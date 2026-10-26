@@ -1,0 +1,8 @@
+RCR (Rotate Right Through Carry)
+Original: 11010101
+Initial carry: 0
+Step 1 : 01101010 Carry: 1
+Step 2 : 10110101 Carry: 0
+Step 3 : 01011010 Carry: 1
+Final RCR result: 01011010
+Final carry: 1
